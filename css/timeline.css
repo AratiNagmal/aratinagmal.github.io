@@ -7,3 +7,16 @@
     border: 2px solid white;
     border-radius: 2px;
 }
+.timeline_divider_row {
+    height: 5px;
+    background-color: white;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+.timeline_top_row {
+    height: 150px;
+}
+.timeline_content {
+    padding-left: 10px;
+    padding-right: 10px;
+}
